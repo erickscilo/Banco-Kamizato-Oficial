@@ -2,7 +2,7 @@
 
 Este é um projeto de exemplo desenvolvido em Harbour para demonstrar o controle básico de uma conta corrente, incluindo a capacidade de registrar receitas e despesas, bem como exibir o saldo atual.
 
-<H2>Funcionalidades</H2>
+<H2>Funcionalidadess</H2>
 <b>Registrar Receita e Despesa:</b> Permite ao usuário registrar tanto receitas como despesas na conta corrente.<br>
 <b>Exibir Saldo Atual:</b> Mostra o saldo atual da conta corrente com base nas transações registradas.
 
